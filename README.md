@@ -1,4 +1,4 @@
-# MEAN Stack
+# Lean Mean Stack
 
 ## License
 
